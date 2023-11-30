@@ -1,8 +1,8 @@
 Team name: Next_level_neuro
 
 Team members:
-Prathistha Dhiraj
-(prathishtha.dhiraj.ece20@itbhu.ac.in)
+Pratishtha Dhiraj
+(pratishtha.dhiraj.ece20@itbhu.ac.in)
 
 Riya Saini
 (riya.saini.ece20@itbhu.ac.in)
